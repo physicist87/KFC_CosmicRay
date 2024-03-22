@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#for (( c=5660; c<=5660; c++ ))
+mkdir -p output
+for (( i=5660; i<=5665; i++ ))
+do
+   #./DRCStudy_analysis input_Run${i}.list result_${i}.root 4chsTest.config 
+   ./DRCStudy_analysis input_Run${i}_MID7.list result_${i}_MID7.root 4chsTest.config 
+done
+
+for (( i=5666; i<5688; i++ ))
+do
+   ./DRCStudy_analysis input_Run${i}_MID7.list result_${i}_MID7.root Run5665-5688.config 
+done
+
+for (( i=5698; i<5699; i++ ))
+do
+   ./DRCStudy_analysis input_Run${i}_MID11.list result_${i}_MID11.root Run5695-Run5699.config 
+done

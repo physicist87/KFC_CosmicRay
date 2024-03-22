@@ -1,0 +1,731 @@
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5660_MID7.list
+Option 2 = result_5660_MID7.root
+Option 3 = 4chsTest.config
+Input filelist = input_Run5660_MID7.list
+Output file name = result_5660_MID7.root
+Channel List file name = 4chsTest.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5660_MID7.root
+Total number of events after merging root files: 20861
+chlistPath: ./config/4chsTest.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 11 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 19 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Event 10000
+Event 20000
+Total processed number of events: 20861
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5661_MID7.list
+Option 2 = result_5661_MID7.root
+Option 3 = 4chsTest.config
+Input filelist = input_Run5661_MID7.list
+Output file name = result_5661_MID7.root
+Channel List file name = 4chsTest.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5661_MID7.root
+Total number of events after merging root files: 9488
+chlistPath: ./config/4chsTest.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 11 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 19 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 9488
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5662_MID7.list
+Option 2 = result_5662_MID7.root
+Option 3 = 4chsTest.config
+Input filelist = input_Run5662_MID7.list
+Output file name = result_5662_MID7.root
+Channel List file name = 4chsTest.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5662_MID7.root
+Total number of events after merging root files: 11
+chlistPath: ./config/4chsTest.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 11 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 19 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 11
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5663_MID7.list
+Option 2 = result_5663_MID7.root
+Option 3 = 4chsTest.config
+Input filelist = input_Run5663_MID7.list
+Output file name = result_5663_MID7.root
+Channel List file name = 4chsTest.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5663_MID7.root
+Total number of events after merging root files: 11
+chlistPath: ./config/4chsTest.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 11 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 19 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 11
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5664_MID7.list
+Option 2 = result_5664_MID7.root
+Option 3 = 4chsTest.config
+Input filelist = input_Run5664_MID7.list
+Output file name = result_5664_MID7.root
+Channel List file name = 4chsTest.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5664_MID7.root
+Error in <TChain::AddFile>: cannot find tree with name DRCNtuple in file /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5664_MID7.root
+Total number of events after merging root files: 0
+chlistPath: ./config/4chsTest.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 11 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 19 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+terminate called after throwing an instance of 'std::out_of_range'
+  what():  vector::_M_range_check: __n (which is 0) >= this->size() (which is 0)
+./run.sh: line 9: 820575 Aborted                 (core dumped) ./DRCStudy_analysis input_Run${i}_MID7.list result_${i}_MID7.root 4chsTest.config
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5665_MID7.list
+Option 2 = result_5665_MID7.root
+Option 3 = 4chsTest.config
+Input filelist = input_Run5665_MID7.list
+Output file name = result_5665_MID7.root
+Channel List file name = 4chsTest.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5665_MID7.root
+Total number of events after merging root files: 80639
+chlistPath: ./config/4chsTest.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 11 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 19 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Total processed number of events: 80639
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5666_MID7.list
+Option 2 = result_5666_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5666_MID7.list
+Output file name = result_5666_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5666_MID7.root
+Total number of events after merging root files: 11
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 11
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5667_MID7.list
+Option 2 = result_5667_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5667_MID7.list
+Output file name = result_5667_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5667_MID7.root
+Total number of events after merging root files: 10001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Event 10000
+Total processed number of events: 10001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5668_MID7.list
+Option 2 = result_5668_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5668_MID7.list
+Output file name = result_5668_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5668_MID7.root
+Total number of events after merging root files: 3001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 3001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5669_MID7.list
+Option 2 = result_5669_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5669_MID7.list
+Output file name = result_5669_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5669_MID7.root
+Total number of events after merging root files: 3001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 3001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5670_MID7.list
+Option 2 = result_5670_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5670_MID7.list
+Output file name = result_5670_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5670_MID7.root
+Total number of events after merging root files: 3001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 3001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5671_MID7.list
+Option 2 = result_5671_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5671_MID7.list
+Output file name = result_5671_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5671_MID7.root
+Total number of events after merging root files: 3001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 3001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5672_MID7.list
+Option 2 = result_5672_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5672_MID7.list
+Output file name = result_5672_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5672_MID7.root
+Total number of events after merging root files: 509
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 509
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5673_MID7.list
+Option 2 = result_5673_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5673_MID7.list
+Output file name = result_5673_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5673_MID7.root
+Total number of events after merging root files: 3001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 3001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5674_MID7.list
+Option 2 = result_5674_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5674_MID7.list
+Output file name = result_5674_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5674_MID7.root
+Total number of events after merging root files: 3029
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 3029
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5675_MID7.list
+Option 2 = result_5675_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5675_MID7.list
+Output file name = result_5675_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5675_MID7.root
+Total number of events after merging root files: 1006
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 1006
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5676_MID7.list
+Option 2 = result_5676_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5676_MID7.list
+Output file name = result_5676_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5676_MID7.root
+Total number of events after merging root files: 1006
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 1006
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5677_MID7.list
+Option 2 = result_5677_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5677_MID7.list
+Output file name = result_5677_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5677_MID7.root
+Total number of events after merging root files: 1002
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 1002
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5678_MID7.list
+Option 2 = result_5678_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5678_MID7.list
+Output file name = result_5678_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5678_MID7.root
+Total number of events after merging root files: 1003
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 1003
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5679_MID7.list
+Option 2 = result_5679_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5679_MID7.list
+Output file name = result_5679_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5679_MID7.root
+Total number of events after merging root files: 14
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 14
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5680_MID7.list
+Option 2 = result_5680_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5680_MID7.list
+Output file name = result_5680_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5680_MID7.root
+Total number of events after merging root files: 2896
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 2896
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5681_MID7.list
+Option 2 = result_5681_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5681_MID7.list
+Output file name = result_5681_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5681_MID7.root
+Total number of events after merging root files: 30001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Total processed number of events: 30001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5682_MID7.list
+Option 2 = result_5682_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5682_MID7.list
+Output file name = result_5682_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5682_MID7.root
+Error in <TChain::AddFile>: cannot find tree with name DRCNtuple in file /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5682_MID7.root
+Total number of events after merging root files: 0
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+terminate called after throwing an instance of 'std::out_of_range'
+  what():  vector::_M_range_check: __n (which is 0) >= this->size() (which is 0)
+./run.sh: line 14: 821681 Aborted                 (core dumped) ./DRCStudy_analysis input_Run${i}_MID7.list result_${i}_MID7.root Run5665-5688.config
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5683_MID7.list
+Option 2 = result_5683_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5683_MID7.list
+Output file name = result_5683_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5683_MID7.root
+Total number of events after merging root files: 30001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Total processed number of events: 30001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5684_MID7.list
+Option 2 = result_5684_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5684_MID7.list
+Output file name = result_5684_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5684_MID7.root
+Total number of events after merging root files: 30001
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Total processed number of events: 30001
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5685_MID7.list
+Option 2 = result_5685_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5685_MID7.list
+Output file name = result_5685_MID7.root
+Channel List file name = Run5665-5688.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5685_MID7.root
+Total number of events after merging root files: 174
+chlistPath: ./config/Run5665-5688.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 19 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 23 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Total processed number of events: 174
+End processing...
+
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5686_MID7.list
+Option 2 = result_5686_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5686_MID7.list
+Output file name = result_5686_MID7.root
+Channel List file name = Run5665-5688.config
+
+No files! 0
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5687_MID7.list
+Option 2 = result_5687_MID7.root
+Option 3 = Run5665-5688.config
+Input filelist = input_Run5687_MID7.list
+Output file name = result_5687_MID7.root
+Channel List file name = Run5665-5688.config
+
+No files! 0
+The number of options is: 3
+Option 0 = ./DRCStudy_analysis
+Option 1 = input_Run5698_MID11.list
+Option 2 = result_5698_MID11.root
+Option 3 = Run5695-Run5699.config
+Input filelist = input_Run5698_MID11.list
+Output file name = result_5698_MID11.root
+Channel List file name = Run5695-Run5699.config
+
+
+start merging file(s)
+adding: /storage/palgongsan/sha/Analysis/KFC_DREAM/Cosmiclay/Analysis/Ntuples/v2p2/v1_output_Run5698_MID11.root
+Total number of events after merging root files: 10002
+chlistPath: ./config/Run5695-Run5699.config
+ch 3 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 150 Width_ : 230
+ch 7 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 70 Width_ : 150
+ch 11 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 15 leftbin_ : 200 rightbin_ : 600 riseEdge_ : 90 Width_ : 440
+ch 27 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+ch 31 leftbin_ : 200 rightbin_ : 400 riseEdge_ : 45 Width_ : 90
+sk start function 
+start Loop 
+Event 0
+Event 10000
+Total processed number of events: 10002
+End processing...
+

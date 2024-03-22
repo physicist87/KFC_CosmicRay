@@ -1,0 +1,2816 @@
+nohup: ignoring input
+./Produce_Ntuple 5659 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5659
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5659
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5659/Run_5659_Wave/Run_5659_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5659/Run_5659_Wave/Run_5659_Wave_MID_7//Run_5659_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 11 size of v_times: 11
+nevt : 11
+evt : 0
+ loop
+evt : 11
+End processing...
+
+./Produce_Ntuple 5660 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5660
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5660
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5660/Run_5660_Wave/Run_5660_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5660/Run_5660_Wave/Run_5660_Wave_MID_7//Run_5660_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 20861 size of v_times: 20861
+nevt : 20861
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+evt : 10000
+evt : 11000
+evt : 12000
+evt : 13000
+evt : 14000
+evt : 15000
+evt : 16000
+evt : 17000
+evt : 18000
+evt : 19000
+evt : 20000
+ loop
+evt : 20861
+End processing...
+
+./Produce_Ntuple 5661 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5661
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5661
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5661/Run_5661_Wave/Run_5661_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5661/Run_5661_Wave/Run_5661_Wave_MID_7//Run_5661_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 9488 size of v_times: 9488
+nevt : 9488
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+ loop
+evt : 9488
+End processing...
+
+./Produce_Ntuple 5662 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5662
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5662
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5662/Run_5662_Wave/Run_5662_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5662/Run_5662_Wave/Run_5662_Wave_MID_7//Run_5662_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 11 size of v_times: 11
+nevt : 11
+evt : 0
+ loop
+evt : 11
+End processing...
+
+./Produce_Ntuple 5663 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5663
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5663
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5663/Run_5663_Wave/Run_5663_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5663/Run_5663_Wave/Run_5663_Wave_MID_7//Run_5663_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 11 size of v_times: 11
+nevt : 11
+evt : 0
+ loop
+evt : 11
+End processing...
+
+./Produce_Ntuple 5664 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5664
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5664
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+opendir: No such file or directory
+
+
+ *** Break *** segmentation violation
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x00007fa3161c660c in waitpid () from /lib64/libc.so.6
+#1  0x00007fa316143f62 in do_system () from /lib64/libc.so.6
+#2  0x00007fa318bf6a5c in TUnixSystem::StackTrace() () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#3  0x00007fa318bf4155 in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#4  <signal handler called>
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum https://root.cern/forum
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at https://root.cern/bugs Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+./Produce_Ntuple 5665 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5665
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5665
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5665/Run_5665_Wave/Run_5665_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5665/Run_5665_Wave/Run_5665_Wave_MID_7//Run_5665_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 80639 size of v_times: 80639
+nevt : 80639
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+evt : 10000
+evt : 11000
+evt : 12000
+evt : 13000
+evt : 14000
+evt : 15000
+evt : 16000
+evt : 17000
+evt : 18000
+evt : 19000
+evt : 20000
+evt : 21000
+evt : 22000
+evt : 23000
+evt : 24000
+evt : 25000
+evt : 26000
+evt : 27000
+evt : 28000
+evt : 29000
+evt : 30000
+evt : 31000
+evt : 32000
+evt : 33000
+evt : 34000
+evt : 35000
+evt : 36000
+evt : 37000
+evt : 38000
+evt : 39000
+evt : 40000
+evt : 41000
+evt : 42000
+evt : 43000
+evt : 44000
+evt : 45000
+evt : 46000
+evt : 47000
+evt : 48000
+evt : 49000
+evt : 50000
+evt : 51000
+evt : 52000
+evt : 53000
+evt : 54000
+evt : 55000
+evt : 56000
+evt : 57000
+evt : 58000
+evt : 59000
+evt : 60000
+evt : 61000
+evt : 62000
+evt : 63000
+evt : 64000
+evt : 65000
+evt : 66000
+evt : 67000
+evt : 68000
+evt : 69000
+evt : 70000
+evt : 71000
+evt : 72000
+evt : 73000
+evt : 74000
+evt : 75000
+evt : 76000
+evt : 77000
+evt : 78000
+evt : 79000
+evt : 80000
+ loop
+evt : 80639
+End processing...
+
+./Produce_Ntuple 5666 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5666
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5666
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5666/Run_5666_Wave/Run_5666_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5666/Run_5666_Wave/Run_5666_Wave_MID_7//Run_5666_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 11 size of v_times: 11
+nevt : 11
+evt : 0
+ loop
+evt : 11
+End processing...
+
+./Produce_Ntuple 5667 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5667
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5667
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5667/Run_5667_Wave/Run_5667_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5667/Run_5667_Wave/Run_5667_Wave_MID_7//Run_5667_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 10001 size of v_times: 10001
+nevt : 10001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+evt : 10000
+ loop
+evt : 10001
+End processing...
+
+./Produce_Ntuple 5668 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5668
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5668
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5668/Run_5668_Wave/Run_5668_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5668/Run_5668_Wave/Run_5668_Wave_MID_7//Run_5668_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 3001 size of v_times: 3001
+nevt : 3001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+ loop
+evt : 3001
+End processing...
+
+./Produce_Ntuple 5669 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5669
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5669
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5669/Run_5669_Wave/Run_5669_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5669/Run_5669_Wave/Run_5669_Wave_MID_7//Run_5669_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 3001 size of v_times: 3001
+nevt : 3001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+ loop
+evt : 3001
+End processing...
+
+./Produce_Ntuple 5670 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5670
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5670
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5670/Run_5670_Wave/Run_5670_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5670/Run_5670_Wave/Run_5670_Wave_MID_7//Run_5670_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 3001 size of v_times: 3001
+nevt : 3001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+ loop
+evt : 3001
+End processing...
+
+./Produce_Ntuple 5671 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5671
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5671
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5671/Run_5671_Wave/Run_5671_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5671/Run_5671_Wave/Run_5671_Wave_MID_7//Run_5671_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 3001 size of v_times: 3001
+nevt : 3001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+ loop
+evt : 3001
+End processing...
+
+./Produce_Ntuple 5672 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5672
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5672
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5672/Run_5672_Wave/Run_5672_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5672/Run_5672_Wave/Run_5672_Wave_MID_7//Run_5672_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 509 size of v_times: 509
+nevt : 509
+evt : 0
+ loop
+evt : 509
+End processing...
+
+./Produce_Ntuple 5673 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5673
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5673
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5673/Run_5673_Wave/Run_5673_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5673/Run_5673_Wave/Run_5673_Wave_MID_7//Run_5673_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 3001 size of v_times: 3001
+nevt : 3001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+ loop
+evt : 3001
+End processing...
+
+./Produce_Ntuple 5674 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5674
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5674
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5674/Run_5674_Wave/Run_5674_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5674/Run_5674_Wave/Run_5674_Wave_MID_7//Run_5674_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 3029 size of v_times: 3029
+nevt : 3029
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+ loop
+evt : 3029
+End processing...
+
+./Produce_Ntuple 5675 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5675
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5675
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5675/Run_5675_Wave/Run_5675_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5675/Run_5675_Wave/Run_5675_Wave_MID_7//Run_5675_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 1006 size of v_times: 1006
+nevt : 1006
+evt : 0
+evt : 1000
+ loop
+evt : 1006
+End processing...
+
+./Produce_Ntuple 5676 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5676
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5676
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5676/Run_5676_Wave/Run_5676_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5676/Run_5676_Wave/Run_5676_Wave_MID_7//Run_5676_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 1006 size of v_times: 1006
+nevt : 1006
+evt : 0
+evt : 1000
+ loop
+evt : 1006
+End processing...
+
+./Produce_Ntuple 5677 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5677
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5677
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5677/Run_5677_Wave/Run_5677_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5677/Run_5677_Wave/Run_5677_Wave_MID_7//Run_5677_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 1002 size of v_times: 1002
+nevt : 1002
+evt : 0
+evt : 1000
+ loop
+evt : 1002
+End processing...
+
+./Produce_Ntuple 5678 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5678
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5678
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5678/Run_5678_Wave/Run_5678_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5678/Run_5678_Wave/Run_5678_Wave_MID_7//Run_5678_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 1003 size of v_times: 1003
+nevt : 1003
+evt : 0
+evt : 1000
+ loop
+evt : 1003
+End processing...
+
+./Produce_Ntuple 5679 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5679
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5679
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5679/Run_5679_Wave/Run_5679_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5679/Run_5679_Wave/Run_5679_Wave_MID_7//Run_5679_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 14 size of v_times: 14
+nevt : 14
+evt : 0
+ loop
+evt : 14
+End processing...
+
+./Produce_Ntuple 5680 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5680
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5680
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5680/Run_5680_Wave/Run_5680_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5680/Run_5680_Wave/Run_5680_Wave_MID_7//Run_5680_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 2896 size of v_times: 2896
+nevt : 2896
+evt : 0
+evt : 1000
+evt : 2000
+ loop
+evt : 2896
+End processing...
+
+./Produce_Ntuple 5681 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5681
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5681
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5681/Run_5681_Wave/Run_5681_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5681/Run_5681_Wave/Run_5681_Wave_MID_7//Run_5681_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 30001 size of v_times: 30001
+nevt : 30001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+evt : 10000
+evt : 11000
+evt : 12000
+evt : 13000
+evt : 14000
+evt : 15000
+evt : 16000
+evt : 17000
+evt : 18000
+evt : 19000
+evt : 20000
+evt : 21000
+evt : 22000
+evt : 23000
+evt : 24000
+evt : 25000
+evt : 26000
+evt : 27000
+evt : 28000
+evt : 29000
+evt : 30000
+ loop
+evt : 30001
+End processing...
+
+./Produce_Ntuple 5682 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5682
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5682
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+opendir: No such file or directory
+
+
+ *** Break *** segmentation violation
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x00007f438496060c in waitpid () from /lib64/libc.so.6
+#1  0x00007f43848ddf62 in do_system () from /lib64/libc.so.6
+#2  0x00007f4387390a5c in TUnixSystem::StackTrace() () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#3  0x00007f438738e155 in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#4  <signal handler called>
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum https://root.cern/forum
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at https://root.cern/bugs Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+./Produce_Ntuple 5683 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5683
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5683
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5683/Run_5683_Wave/Run_5683_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5683/Run_5683_Wave/Run_5683_Wave_MID_7//Run_5683_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 30001 size of v_times: 30001
+nevt : 30001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+evt : 10000
+evt : 11000
+evt : 12000
+evt : 13000
+evt : 14000
+evt : 15000
+evt : 16000
+evt : 17000
+evt : 18000
+evt : 19000
+evt : 20000
+evt : 21000
+evt : 22000
+evt : 23000
+evt : 24000
+evt : 25000
+evt : 26000
+evt : 27000
+evt : 28000
+evt : 29000
+evt : 30000
+ loop
+evt : 30001
+End processing...
+
+./Produce_Ntuple 5684 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5684
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5684
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5684/Run_5684_Wave/Run_5684_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5684/Run_5684_Wave/Run_5684_Wave_MID_7//Run_5684_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 30001 size of v_times: 30001
+nevt : 30001
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+evt : 10000
+evt : 11000
+evt : 12000
+evt : 13000
+evt : 14000
+evt : 15000
+evt : 16000
+evt : 17000
+evt : 18000
+evt : 19000
+evt : 20000
+evt : 21000
+evt : 22000
+evt : 23000
+evt : 24000
+evt : 25000
+evt : 26000
+evt : 27000
+evt : 28000
+evt : 29000
+evt : 30000
+ loop
+evt : 30001
+End processing...
+
+./Produce_Ntuple 5685 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5685
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5685
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5685/Run_5685_Wave/Run_5685_Wave_MID_7/
+
+v_datfile : 1
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5685/Run_5685_Wave/Run_5685_Wave_MID_7//Run_5685_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 174 size of v_times: 174
+nevt : 174
+evt : 0
+ loop
+evt : 174
+End processing...
+
+./Produce_Ntuple 5686 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5686
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5686
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5686/Run_5686_Wave/Run_5686_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5687 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5687
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5687
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5687/Run_5687_Wave/Run_5687_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5688 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5688
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5688
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5688/Run_5688_Wave/Run_5688_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5689 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5689
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5689
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5689/Run_5689_Wave/Run_5689_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5690 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5690
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5690
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5690/Run_5690_Wave/Run_5690_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5691 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5691
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5691
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5691/Run_5691_Wave/Run_5691_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5692 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5692
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5692
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+opendir: No such file or directory
+
+
+ *** Break *** segmentation violation
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x00007f0634ed360c in waitpid () from /lib64/libc.so.6
+#1  0x00007f0634e50f62 in do_system () from /lib64/libc.so.6
+#2  0x00007f0637903a5c in TUnixSystem::StackTrace() () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#3  0x00007f0637901155 in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#4  <signal handler called>
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum https://root.cern/forum
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at https://root.cern/bugs Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+./Produce_Ntuple 5693 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5693
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5693
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5693/Run_5693_Wave/Run_5693_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5694 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5694
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5694
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+opendir: No such file or directory
+
+
+ *** Break *** segmentation violation
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x00007fe22f32b60c in waitpid () from /lib64/libc.so.6
+#1  0x00007fe22f2a8f62 in do_system () from /lib64/libc.so.6
+#2  0x00007fe231d5ba5c in TUnixSystem::StackTrace() () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#3  0x00007fe231d59155 in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/sft.cern.ch/lcg/releases/ROOT/6.26.04-edd28/x86_64-centos7-gcc11-opt/lib/libCore.so
+#4  <signal handler called>
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum https://root.cern/forum
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at https://root.cern/bugs Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  0x0000000000403c4b in main (argc=<optimized out>, argv=<optimized out>) at ntuple_maker.cpp:130
+===========================================================
+
+
+./Produce_Ntuple 5695 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5695
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5695
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5695/Run_5695_Wave/Run_5695_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5696 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5696
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5696
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5696/Run_5696_Wave/Run_5696_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5697 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5697
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5697
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5697/Run_5697_Wave/Run_5697_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 5698 11 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 5698
+Option 2 = 7
+Option 3 = v1_CosmicTest_Ntuple
+Option 4 = KFC
+RunNumber ! = 5698
+Mid Number = 7
+Output file name = v1_CosmicTest_Ntuple
+DAQ type = KFC
+default daq type is KFC : 
+daqtype_ : Run
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/HDD/Run_5698/Run_5698_Wave/Run_5698_Wave_MID_7/
+opendir: No such file or directory
+
+v_datfile : 0
+evt : 0
+End processing...
+
+./Produce_Ntuple 105 7 output...
+The number of options is: 4
+Option 0 = ./Produce_Ntuple
+Option 1 = 105
+Option 2 = 7
+Option 3 = v2_CosmicTest_Ntuple
+Option 4 = Cosmic
+RunNumber ! = 105
+Mid Number = 7
+Output file name = v2_CosmicTest_Ntuple
+DAQ type = Cosmic
+daq type : 
+daqtype_ : SRun
+m_ch_ADCs size : 32
+it first : 0
+it first : 1
+it first : 2
+it first : 3
+it first : 4
+it first : 5
+it first : 6
+it first : 7
+it first : 8
+it first : 9
+it first : 10
+it first : 11
+it first : 12
+it first : 13
+it first : 14
+it first : 15
+it first : 16
+it first : 17
+it first : 18
+it first : 19
+it first : 20
+it first : 21
+it first : 22
+it first : 23
+it first : 24
+it first : 25
+it first : 26
+it first : 27
+it first : 28
+it first : 29
+it first : 30
+it first : 31
+Open Log file ! 
+
+/pnfs/knu.ac.kr/data/cms/store/user/yeo/SHECRO/SRun_105/SRun_105_Wave/SRun_105_Wave_MID_7/
+
+v_datfile : 2
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/SHECRO/SRun_105/SRun_105_Wave/SRun_105_Wave_MID_7//SRun_105_Wave_MID_7_FILE_0.dat
+-----------------------------------------------------------------------
+ nevt : 100046 size of v_times: 100047
+nevt : 100046
+evt : 0
+evt : 1000
+evt : 2000
+evt : 3000
+evt : 4000
+evt : 5000
+evt : 6000
+evt : 7000
+evt : 8000
+evt : 9000
+evt : 10000
+evt : 11000
+evt : 12000
+evt : 13000
+evt : 14000
+evt : 15000
+evt : 16000
+evt : 17000
+evt : 18000
+evt : 19000
+evt : 20000
+evt : 21000
+evt : 22000
+evt : 23000
+evt : 24000
+evt : 25000
+evt : 26000
+evt : 27000
+evt : 28000
+evt : 29000
+evt : 30000
+evt : 31000
+evt : 32000
+evt : 33000
+evt : 34000
+evt : 35000
+evt : 36000
+evt : 37000
+evt : 38000
+evt : 39000
+evt : 40000
+evt : 41000
+evt : 42000
+evt : 43000
+evt : 44000
+evt : 45000
+evt : 46000
+evt : 47000
+evt : 48000
+evt : 49000
+evt : 50000
+evt : 51000
+evt : 52000
+evt : 53000
+evt : 54000
+evt : 55000
+evt : 56000
+evt : 57000
+evt : 58000
+evt : 59000
+evt : 60000
+evt : 61000
+evt : 62000
+evt : 63000
+evt : 64000
+evt : 65000
+evt : 66000
+evt : 67000
+evt : 68000
+evt : 69000
+evt : 70000
+evt : 71000
+evt : 72000
+evt : 73000
+evt : 74000
+evt : 75000
+evt : 76000
+evt : 77000
+evt : 78000
+evt : 79000
+evt : 80000
+evt : 81000
+evt : 82000
+evt : 83000
+evt : 84000
+evt : 85000
+evt : 86000
+evt : 87000
+evt : 88000
+evt : 89000
+evt : 90000
+evt : 91000
+evt : 92000
+evt : 93000
+evt : 94000
+evt : 95000
+evt : 96000
+evt : 97000
+evt : 98000
+evt : 99000
+evt : 100000
+ loop
+file :/pnfs/knu.ac.kr/data/cms/store/user/yeo/SHECRO/SRun_105/SRun_105_Wave/SRun_105_Wave_MID_7//SRun_105_Wave_MID_7_FILE_1.dat
+-----------------------------------------------------------------------
+ nevt : 1 size of v_times: 100047
+nevt : 1
+ loop
+evt : 100047
+End processing...
+
