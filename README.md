@@ -17,5 +17,4 @@ Forth, Check Avg. time structure form:
 in Analysis_v3, there are codes for running Avg. time. structure
 
 Fifth, Check int.ADC(or PeakADC).
-in Analysis_v3, there are codes for running Int/Peak ADC
-~                                                                
+in Analysis_v3, there are codes for running Int/Peak ADC                                                                
