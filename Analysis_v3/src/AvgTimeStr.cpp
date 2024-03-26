@@ -126,7 +126,7 @@ void AvgTimeStr::Start()
 {
    cout << "sk start function " << endl;
    gSystem->mkdir(Form("./avgtimestrDir"));
-   fout = new TFile(Form("avgtimestrDir/%s",outfile),"RECREATE");
+   fout = new TFile(Form("avgtimestrDir/%s",outfile.c_str()),"RECREATE");
    fout->cd("");
 
    TDirectory *dir = gDirectory;
