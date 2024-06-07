@@ -85,11 +85,13 @@ void IntADC::Loop()
          Interval = v_width.at(index);
          //cout << *ich << "" <<" RE " << RE << " Interval : " << Interval << endl;
          min_idx = std::min_element(m_ch_adcs[*ich]->begin()+LeftBin, m_ch_adcs[*ich]->begin()+RightBin) - m_ch_adcs[*ich]->begin();
+         //cout << "min_idx : " << min_idx << endl;
          h_Min_vs_ADC[*ich]->Fill(min_idx,m_ch_adcs[*ich]->at(min_idx));
          peakADC = m_ch_adcs[*ich]->at(min_idx);
          int min_re = min_idx - RE;
          //cout << "min_re : " << min_re << endl;
          intADC = std::accumulate(m_ch_adcs[*ich]->begin() + min_re, m_ch_adcs[*ich]->begin() + min_re + Interval, 0.0);
+         //cout << "peak value: " << intADC << endl;
          float ped_ =0;
          for (int iadc =1; iadc < 101; iadc++){
             ped_ +=m_ch_adcs[*ich]->at(iadc);
@@ -99,17 +101,42 @@ void IntADC::Loop()
          h_Min_vs_SubPedADC[*ich]->Fill(min_idx,ped_avg-m_ch_adcs[*ich]->at(min_idx));
          h_PedADC[*ich]->Fill(ped_avg);
          intpedADC = (ped_avg)*Interval;
-         //cout << "intADC :" << intADC << " intpedADC : " << intpedADC  << endl;
+         double calintADC_ = intpedADC-intADC;
+         if ( calintADC_ < -1.){
+      /*      cout << 
+            " test : " << calintADC_ << 
+            " min_re : " << min_re << 
+            " peak value : " << m_ch_adcs[*ich]->at(min_idx) << 
+            " intADC :" << intADC << 
+            " intpedADC : " << intpedADC <<  
+            " ped_avg : " << ped_avg 
+            << endl;*/
+         }
+            //cout << "intADC :" << intADC << " intpedADC : " << intpedADC  << " min_re : " << min_re << endl;
+         h_IntADC_FixedRange_NonNorm[*ich]->Fill(intpedADC-intADC);
+         h_PeakADC_FixedRange_NonNorm[*ich]->Fill(ped_avg-peakADC);
+         h_PeakADC_Only_NonNorm[*ich]->Fill(peakADC);
+         if (ped_avg-peakADC > 3500) {
+            /// Save waveforms ///
+            //SelectedWaveFormHistos( TString hName, TString hTitle, vector<double> v_entries);
+            //cout << "ped_avg-peakADC : " << ped_avg-peakADC << endl;
+            SelectedWaveFormHistos( Form("h_Waveform_Evt%d", num_evt), Form("Waveform Evt %d Ped-peakADC(%1.2f)", num_evt, ped_avg-peakADC), m_ch_adcs[*ich]);
+            h_PedADC_Sel[*ich]->Fill(ped_avg);
+            
+         }
          h_IntADC_FixedRange[*ich]->Fill(intpedADC-intADC);
          h_PeakADC_FixedRange[*ich]->Fill(ped_avg-peakADC);
+         h_PeakADC_Only[*ich]->Fill(peakADC);
          m_ch_intADC[*ich].push_back(intpedADC-intADC);
          m_ch_peakADC[*ich].push_back(ped_avg-peakADC);
       }
-
+      //cout << "Times : " << Times <<endl;
       num_evt++;
-      if (jentry == nentries-1){finTime = Times;}
+      if (Times !=0) {finTime = (Times)/(pow(10,9));} //916411959000
+      //if (jentry == nentries-2){finTime = Times; cout << "test : " << Times << endl;}
    }//event loop
 
+   cout << " finTime : " << finTime<< endl;
    for(vector<int>::iterator ich = v_chs.begin(); ich != v_chs.end(); ich++){
       double min_;
       int nBins_;
@@ -131,18 +158,22 @@ void IntADC::Loop()
       h_PeakADC[*ich] = DeclareOptHistos(Form("h_PeakADC_Ch%d",*ich), Form("Peak ADC Ch %d",*ich), m_ch_peakADC[*ich]);
       //cout << " h_IntADC Name : " << h_IntADC[*ich]->GetName() << endl;
    }
-/*   for(map<int,vector<double> >::iterator imap = m_ch_intADC.begin(); imap != m_ch_intADC.end(); imap++){
+   for(map<int,vector<double> >::iterator imap = m_ch_intADC.begin(); imap != m_ch_intADC.end(); imap++){
       cout << "imap first " << imap->first << "imap size : " << imap->second.size() << endl;
-      for (vector<double>::iterator iADC = imap->second.begin(); iADC != imap->second.end(); iADC++)
+/*      for (vector<double>::iterator iADC = imap->second.begin(); iADC != imap->second.end(); iADC++)
       {     
       //   cout << "*iADC : " << *iADC << endl;
          h_IntADC[imap->first]->Fill(*iADC);
          h_PeakADC[imap->first]->Fill(-100);
-      }
-   //   h_IntADC[imap->first]->Scale( 1. / finTime );
+      }*/
+      h_IntADC[imap->first]->Scale( 1. / finTime );
+      h_IntADC_FixedRange[imap->first]->Scale( 1. / finTime );
+      h_PeakADC[imap->first]->Scale( 1. / finTime );
+      h_PeakADC_FixedRange[imap->first]->Scale(1./finTime);
+      h_PeakADC_Only[imap->first]->Scale(1./finTime);
    //   cout << " integral ? " << h_IntADC[imap->first]->Integral() << endl;
    }
- */
+
    // time divied //
    printf("Total processed number of events: %lld\n", __tot_evt);
     
@@ -225,6 +256,7 @@ void IntADC::Start()
    dir->cd();
 
    DeclareHistos();
+   fout_sel = new TFile(Form("intADCDir/%s",outfile_sel.c_str()),"RECREATE");
 }
 
 void IntADC::DeclareHistos()
@@ -233,9 +265,15 @@ void IntADC::DeclareHistos()
    for(vector<int>::iterator ich = v_chs.begin(); ich != v_chs.end(); ich++){
       h_Min_vs_ADC[*ich]  = new TH2D(Form("_h_Min_vs_ADC_Ch%d",*ich), Form("Max value vs ADC Ch%d",*ich),  1023, 0,1023, 4500,0,4500); h_Min_vs_ADC[*ich]->Sumw2(); h_Min_vs_ADC[*ich]->SetOption("hist");
       h_Min_vs_SubPedADC[*ich]  = new TH2D(Form("_h_Min_vs_SubPedADC_Ch%d",*ich), Form("Max value vs Ped - ADC Ch%d",*ich),  1023, 0,1023, 5000,-500,4500); h_Min_vs_SubPedADC[*ich]->Sumw2(); h_Min_vs_SubPedADC[*ich]->SetOption("hist");
-      h_IntADC_FixedRange[*ich]  = new TH1D(Form("_h_IntADC_FixedRange_Ch%d",*ich), Form("Int. ADC Ch%d",*ich),  101000, -1000, 100000); h_IntADC_FixedRange[*ich]->Sumw2(); h_IntADC_FixedRange[*ich]->SetOption("hist");
-      h_PeakADC_FixedRange[*ich]  = new TH1D(Form("_h_PeakADC_FixedRange_Ch%d",*ich), Form("Peak. ADC Ch%d",*ich),  11000, -1000, 10000); h_PeakADC_FixedRange[*ich]->Sumw2(); h_PeakADC_FixedRange[*ich]->SetOption("hist");
+      //h_IntADC_FixedRange[*ich]  = new TH1D(Form("_h_IntADC_FixedRange_Ch%d",*ich), Form("Int. ADC Ch%d; Int. ADC [ADC]; Events/Total Time",*ich),  101000, -1000, 100000); h_IntADC_FixedRange[*ich]->Sumw2(); h_IntADC_FixedRange[*ich]->SetOption("hist");
+      h_IntADC_FixedRange[*ich]  = new TH1D(Form("_h_IntADC_FixedRange_Ch%d",*ich), Form("Int. ADC Ch%d; Int. ADC [ADC]; Events/Total Time",*ich),  41000000, -100000, 4000000); h_IntADC_FixedRange[*ich]->Sumw2(); h_IntADC_FixedRange[*ich]->SetOption("hist");
+      h_PeakADC_FixedRange[*ich]  = new TH1D(Form("_h_PeakADC_FixedRange_Ch%d",*ich), Form("Peak. ADC Ch%d; Peak ADC [ADC]; Events/Total Time",*ich),  600000, -1000, 5000); h_PeakADC_FixedRange[*ich]->Sumw2(); h_PeakADC_FixedRange[*ich]->SetOption("hist");
+      h_PeakADC_Only[*ich]  = new TH1D(Form("_h_PeakADC_Only_Ch%d",*ich), Form("Peak. ADC Ch%d (Not Sub. Ped); Peak ADC [ADC]; Events/Total Time",*ich),  600000, -1000, 5000); h_PeakADC_Only[*ich]->Sumw2(); h_PeakADC_Only[*ich]->SetOption("hist");
       h_PedADC[*ich]  = new TH1D(Form("_h_PedADC_Ch%d",*ich), Form("Ped. ADC Ch%d",*ich),  5000, 0, 5000); h_PedADC[*ich]->Sumw2(); h_PedADC[*ich]->SetOption("hist");
+      h_PedADC_Sel[*ich]  = new TH1D(Form("_h_PedADC_Sel_Ch%d",*ich), Form("Ped. ADC Ch%d",*ich),  5000, 0, 5000); h_PedADC_Sel[*ich]->Sumw2(); h_PedADC_Sel[*ich]->SetOption("hist");
+      h_IntADC_FixedRange_NonNorm[*ich]  = new TH1D(Form("_h_IntADC_FixedRange_NonNorm_Ch%d",*ich), Form("Int. ADC Ch%d; Int. ADC [ADC]; Events",*ich),  41000000, -100000, 4000000); h_IntADC_FixedRange_NonNorm[*ich]->Sumw2(); h_IntADC_FixedRange_NonNorm[*ich]->SetOption("hist");
+      h_PeakADC_FixedRange_NonNorm[*ich]  = new TH1D(Form("_h_PeakADC_FixedRange_NonNorm_Ch%d",*ich), Form("Peak. ADC Ch%d; Peak ADC [ADC]; Events",*ich),  600000, -1000, 5000); h_PeakADC_FixedRange_NonNorm[*ich]->Sumw2(); h_PeakADC_FixedRange_NonNorm[*ich]->SetOption("hist");
+      h_PeakADC_Only_NonNorm[*ich]  = new TH1D(Form("_h_PeakADC_Only_NonNorm_Ch%d",*ich), Form("Peak. ADC Ch%d (Not Sub. Ped); Peak ADC [ADC]; Events",*ich),  600000, -1000, 5000); h_PeakADC_Only_NonNorm[*ich]->Sumw2(); h_PeakADC_Only_NonNorm[*ich]->SetOption("hist");
    }
    //cout << "end DeclareHistos " << endl;
 }
@@ -255,6 +293,7 @@ TH1D* IntADC::DeclareOptHistos( TString hName, TString hTitle, int NumBins, doub
 
 TH1D* IntADC::DeclareOptHistos( TString hName, TString hTitle,  vector<double> v_entries)
 {
+   fout->cd("");
    double min_  = -999.;
    int nBins_   = -999;
    double max_  = -999.;
@@ -284,15 +323,42 @@ TH1D* IntADC::DeclareOptHistos( TString hName, TString hTitle,  vector<double> v
    }
    return h_tmp;
 }
+
+void IntADC::SelectedWaveFormHistos( TString hName, TString hTitle, vector<int>* v_entries)
+{
+   fout_sel->cd("");
+   TH1D* h_tmp;
+   h_tmp = new TH1D(Form("%s",hName.Data()), Form("%s",hTitle.Data()), 1023, 0, 1023);
+   h_tmp->Sumw2();
+   h_tmp->SetOption("hist");
+   h_tmp->GetYaxis()->SetTitle("ADC");
+   h_tmp->GetXaxis()->SetTitle("ns");
+   for (vector<int>::iterator it = v_entries->begin(); it !=  v_entries->end(); ++it)
+   {
+      //FillHisto(h_tmp, *it);
+      h_tmp->Fill((it-v_entries->begin())+1, *it);
+   }
+   //return h_tmp;
+}
+
 void IntADC::End()
 {
    fout->Write();
    fout->Close();
+   fout_sel->Write();
+   fout_sel->Close();
 }
 
 void IntADC::SetOutputFileName(string outname)
 {   
    outfile = outname;
+   outfile_sel = outname;
+   std::size_t found = outfile_sel.find(".");
+   //cout << "outfile_sel : " << outfile_sel << endl;
+   //cout << "found : " << found << endl;
+   outfile_sel.replace(found,5,"_SelcWaveForm.root");
+   //cout << "outfile_sel :" << outfile_sel << endl;
+   return;
 }
 
 void IntADC::GetVariables()

@@ -23,6 +23,7 @@
 
 #include "analysis/DRCTree.h"
 #include "include/Waveform.hpp"
+#include "include/OverWaveform.hpp"
 #include "include/AvgTimeStr.hpp"
 #include "include/IntADC.hpp"
 
@@ -133,6 +134,22 @@ int main(int argc, char **argv)
       delete drcstudy;
 
 
+   }
+   else if (studyType == "OverWaveform"){
+
+      OverWaveform *drcstudy = new OverWaveform(ch);
+     
+      // Setup cuts. 
+      drcstudy->SetOutputFileName(outname);
+      //drcstudy->SetChannels(argv[3]);
+      drcstudy->SetChannels(confFile);
+      
+      
+      // Run event loop
+      drcstudy->Start();
+      drcstudy->Loop();
+      drcstudy->End();
+      delete drcstudy;
    }
    else if (studyType == "AvgTimeStr"){
 

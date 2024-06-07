@@ -43,12 +43,15 @@ class IntADC : public DRCTree
       //void DeclareOptHistos(TH1D* h_tmp,TString hName, TString hTitle, int NumBins, double xlow_, double xup_);
       TH1D* DeclareOptHistos(TString hName, TString hTitle, int NumBins, double xlow_, double xup_);
       TH1D* DeclareOptHistos(TString hName, TString hTitle, vector<double> v_entries);
+      void SelectedWaveFormHistos(TString hName, TString hTitle, vector<int>* v_entries);
       void GetVariables();
       
    private:
       //put variables that you want
       string outfile;
+      string outfile_sel;
       TFile *fout;
+      TFile *fout_sel;
 
       // Declare user variables
       vector<int> v_chs;
@@ -69,8 +72,13 @@ class IntADC : public DRCTree
       TH2D* h_Min_vs_SubPedADC[32];
       TH1D* h_IntADC_FixedRange[32];
       TH1D* h_PeakADC_FixedRange[32];
+      TH1D* h_PeakADC_Only[32];
+      TH1D* h_IntADC_FixedRange_NonNorm[32];
+      TH1D* h_PeakADC_FixedRange_NonNorm[32];
+      TH1D* h_PeakADC_Only_NonNorm[32];
       TH1D* h_IntADC[32];
       TH1D* h_PedADC[32];
+      TH1D* h_PedADC_Sel[32];
       TH1D* h_PeakADC[32];
 };
 
