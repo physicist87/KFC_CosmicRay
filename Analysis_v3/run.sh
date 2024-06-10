@@ -10,7 +10,8 @@
 #for (( i=190; i<220; i++ ))
 #for (( i=226; i<271; i++ ))
 #for (( i=220; i<271; i++ ))
-for (( i=326; i<327; i++ ))
+#for (( i=326; i<327; i++ ))
+for (( i=327; i<335; i++ ))
 do
    #./DRC_Study -studyType Waveform -inputList input_Run${i}_MID11.list -outputName waveform_${i}_MID11 -config Run5695-Run5699.config 
    #./DRC_Study -studyType Waveform -inputList input_Run${i}_MID11.list -outputName waveform_${i}_MID11 
